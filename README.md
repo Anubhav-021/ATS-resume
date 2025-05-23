@@ -31,3 +31,14 @@ ATS Resume is a powerful AI-based web application that evaluates your resume aga
 ![Image](https://github.com/user-attachments/assets/d89d7910-e07e-4853-839f-faaf96949120)
 
 ![Image](https://github.com/user-attachments/assets/443349e2-46fe-4a9c-98b8-c4a0cfb43f48)
+
+# 🧠 How It Works
+<b> The user uploads a resume (in PDF format) and provides a job description.
+
+The app uses pdf2image and Pillow to convert the resume to an image format that can be passed to the Gemini model.
+
+Gemini generates a text-based evaluation or a percentage match based on provided prompts.
+
+The response is shown directly in the Streamlit interface.
+
+
