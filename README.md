@@ -26,5 +26,6 @@ ATS Resume is a powerful AI-based web application that evaluates your resume aga
 4. Environment Management: python-dotenv
 
 # 📸 Screenshots
+![Image](https://github.com/user-attachments/assets/6b84cfed-a82a-4b40-8ed2-d00ca0885b0b)
 
 
