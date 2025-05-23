@@ -28,4 +28,6 @@ ATS Resume is a powerful AI-based web application that evaluates your resume aga
 # 📸 Screenshots
 ![Image](https://github.com/user-attachments/assets/6b84cfed-a82a-4b40-8ed2-d00ca0885b0b)
 
+![Image](https://github.com/user-attachments/assets/d89d7910-e07e-4853-839f-faaf96949120)
+
 
