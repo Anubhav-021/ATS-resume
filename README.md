@@ -24,3 +24,7 @@ ATS Resume is a powerful AI-based web application that evaluates your resume aga
 3. PDF Processing: pdf2image, Pillow
 
 4. Environment Management: python-dotenv
+
+# 📸 Screenshots
+
+
