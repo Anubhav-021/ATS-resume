@@ -15,3 +15,12 @@ ATS Resume is a powerful AI-based web application that evaluates your resume aga
       Missing keywords
 
 4. 🔐 Uses Gemini AI via Google Generative AI API
+
+# 🛠️ Tech Stack
+1. Frontend & Backend: Streamlit
+
+2. AI Model: Gemini 1.5 Pro
+
+3. PDF Processing: pdf2image, Pillow
+
+4. Environment Management: python-dotenv
